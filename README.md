@@ -1,4 +1,4 @@
-# Mushroom Classification Via Random Forrest Gradient Boosting And Stacking Ensemble Methods
+# Mushroom Classification Via Random Forest Gradient Boosting And Stacking Ensemble Methods
 
 This project explores the use of ensemble learning techniques, including **Random Forest, Gradient Boosting, and Stacking**, to classify mushrooms as **edible or poisonous**. The dataset contains **61,069 instances** with **21 features**, making it well-suited for advanced classification tasks.
 
@@ -11,8 +11,8 @@ The **Secondary Mushroom Dataset** consists of:
 - **secondary_data_meta.txt**
 
 Files:
-- **Mushroom Classification Via Random Forrest Gradient Boosting And Stacking Ensemble Methods.docx**
-- **Mushroom Classification Via Random Forrest Gradient Boosting And Stacking Ensemble Methods.ipynb**
+- **Mushroom Classification Via Random Forest Gradient Boosting And Stacking Ensemble Methods.docx**
+- **Mushroom Classification Via Random Forest Gradient Boosting And Stacking Ensemble Methods.ipynb**
 
 These files contain bioinformatics data about mushrooms, with 21 nominal and metrical features, such as **cap diameter, gill color, stem root, habitat, and bruising properties**.
 
@@ -64,7 +64,7 @@ The dataset was split into **80% training and 20% testing**. The following model
 
 ## Usage
 1. Clone the repository and navigate to the project directory:
-git clone https://github.com/jovanthompsonmds/Mushroom-Classification-Via-Random-Forrest-Gradient-Boosting-And-Stacking-Ensemble-Methods.git
+git clone https://github.com/jovanthompsonmds/Mushroom-Classification-Via-Random-Forest-Gradient-Boosting-And-Stacking-Ensemble-Methods.git
 
 2. Run the Jupyter Notebook:
 - Load and preprocess the data.
